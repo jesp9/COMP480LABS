@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Blog 1!"
-date:   2020-09-11 
-categories: blogs :)
----
-Today I will be talking about Structuring HTML pages. Specifically structural tags like aside, article, nav, and section are being used. Also, semantic tags such as headers, footers, etc.
-
-We'll start with aside tag, aside is used to emphasize a piece of information for the viewer to see.
